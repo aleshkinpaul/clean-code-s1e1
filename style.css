@@ -44,7 +44,7 @@
 .tasks-list__item {
   list-style:none;
 }
-.task__checkbox,.task__input,.button{
+input,button{
   outline:none;
 }
 .button {
@@ -91,7 +91,7 @@
   margin: 0 0 20px;
 }
 .task__input_new {
-    width: 318px;
+  width: 318px;
 }
 
 /* Task list */
