@@ -13,6 +13,11 @@
   text-align: right;
 }
 
+.header__figure {
+  margin: 0;
+  width: 100%;
+}
+
 .header_image {
   width: 100%;
 }
