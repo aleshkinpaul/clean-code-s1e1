@@ -41,14 +41,14 @@
   display: flex;
 }
 .tasks-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .tasks-list__item {
-  list-style:none;
+  list-style: none;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 .button {
   background: none;
@@ -145,14 +145,14 @@ input,button{
 
 /* Edit Task */
 .tasks-list__item .task__input {
-  display:none
+  display: none
 }
 
 .tasks-list__item_edit .task__input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .tasks-list__item_edit .task__label {
-  display:none;
+  display: none;
 }
